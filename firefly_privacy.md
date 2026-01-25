@@ -1,8 +1,17 @@
 # Firefly Privacy Policy
 
-This App is provided by Dylan Haycraft and is intended for use as is.
+Last updated: 25 January 2026
 
-No personal data is collected or shared with Third Parties. 
-No tracking, no cookies, no usage statistics besides those provided by Apples own analytics services leave the app.
+Firefly is provided by Dylan Haycraft.
 
-This policy may change at any time.
+## Data collection
+Firefly does not collect, sell, or share personal information with third parties.
+
+## Analytics
+Firefly may use Apple’s built-in App Store / device analytics (if you have them enabled in iOS settings). No custom tracking, cookies, or third-party analytics SDKs are used.
+
+## Data stored on your device
+Your mission data is stored locally on your device. Exported PDFs are created on-device.
+
+## Changes
+This policy may be updated from time to time. The latest version will always be available at this link.
